@@ -45,25 +45,6 @@ Durante o desenvolvimento deste projeto, foram trabalhadas as seguintes etapas:
 - DAX
 - Kaggle
 
-## Estrutura Recomendada do Projeto
-
-```bash
-dashboard-vendas-automotivas-powerbi/
-│
-├── dashboard/
-│   └── dashboard_vendas_automotivas.pbix
-│
-├── imagens/
-│   ├── dashboard_01.png
-│   ├── dashboard_02.png
-│   └── dashboard_03.png
-│
-├── base/
-│   └── base_dados.csv
-│
-└── README.md
-```
-
 ## Base de Dados
 
 Base utilizada no projeto:  
