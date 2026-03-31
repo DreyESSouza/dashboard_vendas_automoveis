@@ -48,7 +48,7 @@ Durante o desenvolvimento deste projeto, foram trabalhadas as seguintes etapas:
 ## Base de Dados
 
 Base utilizada no projeto:  
-https://lnkd.in/dHJCtRs9
+[https://lnkd.in/dHJCtRs9](https://www.kaggle.com/datasets/ddosad/auto-sales-data)
 
 ## Observações
 
