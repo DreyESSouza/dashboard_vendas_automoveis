@@ -1,0 +1,8 @@
+Nome sugerido do repositório:
+dashboard-vendas-automotivas-powerbi
+
+Descrição curta:
+Dashboard interativo em Power BI para análise de vendas automotivas, com tratamento, tradução e padronização de dados.
+
+Tags sugeridas:
+powerbi, analise-de-dados, dashboard, business-intelligence, kaggle, visualizacao-de-dados, power-query, dax
