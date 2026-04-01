@@ -50,12 +50,6 @@ Durante o desenvolvimento deste projeto, foram trabalhadas as seguintes etapas:
 Base utilizada no projeto:  
 [https://lnkd.in/dHJCtRs9](https://www.kaggle.com/datasets/ddosad/auto-sales-data)
 
-## Observações
-
-As imagens disponíveis deste projeto foram recuperadas a partir de prints já publicados anteriormente, portanto podem conter pequenas limitações visuais em relação aos arquivos originais.
-
-Ainda assim, o projeto representa meu processo de aprendizado e evolução prática no Power BI.
-
 ## Autor
 
 Desenvolvido por Andrey Souza
