@@ -66,11 +66,11 @@ O objetivo deste dashboard é permitir uma análise visual e prática dos dados 
 
 ### Aba Analise
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Aba_Analise.png">
 
 ### Informação do Scroller na Aba Analise
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Infos_Scroller_Aba_Analise.png">
 
 ## Etapas Desenvolvidas
 
