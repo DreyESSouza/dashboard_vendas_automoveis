@@ -26,6 +26,16 @@ O objetivo deste dashboard é permitir uma análise visual e prática dos dados 
 - Filtros interativos
 - Visualização gráfica para apoio à tomada de decisão
 
+## Dashboard
+
+### Capa do Dashboard
+
+<img width="100%" src="Imagens_do_Projeto/Capa_Dashboard.png">
+
+### Aba Geral
+
+<img width="100%" src="Imagens_do_Projeto/Aba_Geral.png">
+
 ## Etapas Desenvolvidas
 
 Durante o desenvolvimento deste projeto, foram trabalhadas as seguintes etapas:
