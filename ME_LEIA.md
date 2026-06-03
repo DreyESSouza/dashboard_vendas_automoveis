@@ -46,11 +46,11 @@ O objetivo deste dashboard é permitir uma análise visual e prática dos dados 
 
 ### Gráfico de linha com Tooltip
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Grafico_de_linha_tooltip.png">
 
-### Gráfico de barra vertical com Tooltip
+### Gráfico de barra horizontal com Tooltip
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Grafico_de_barra_horizontal_tooltip.png">
 
 ### Filtros da Aba Geral
 
