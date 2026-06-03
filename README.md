@@ -54,15 +54,15 @@ O objetivo deste dashboard é permitir uma análise visual e prática dos dados 
 
 ### Filtros da Aba Geral
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Filtros_Aba_Geral.png">
 
 ### Definindo Filtros
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Definindo_Filtros.png">
 
 ### Aba Geral com filtros
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral_com_Filtros.png">
 
 ### Aba Analise
 
