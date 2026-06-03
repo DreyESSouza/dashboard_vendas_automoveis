@@ -38,11 +38,11 @@ O objetivo deste dashboard é permitir uma análise visual e prática dos dados 
 
 ### Gráfico de mapa com Tooltip (exemplo 1)
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Grafico_de_mapa_tooltip1.png">
 
 ### Gráfico de mapa com Tooltip (exemplo 2)
 
-<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Grafico_de_mapa_tooltip2.png">
 
 ### Gráfico de linha com Tooltip
 
