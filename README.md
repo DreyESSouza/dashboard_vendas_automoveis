@@ -30,11 +30,47 @@ O objetivo deste dashboard é permitir uma análise visual e prática dos dados 
 
 ### Capa do Dashboard
 
-<img width="100%" src="Imagens_do_Projeto/Capa_Dashboard.png">
+<img width="100%" src="Imagens_do_Dashboard/Capa_Dashboard.png">
 
 ### Aba Geral
 
-<img width="100%" src="Imagens_do_Projeto/Aba_Geral.png">
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Gráfico de mapa com Tooltip (exemplo 1)
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Gráfico de mapa com Tooltip (exemplo 2)
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Gráfico de linha com Tooltip
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Gráfico de barra vertical com Tooltip
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Filtros da Aba Geral
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Definindo Filtros
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Aba Geral com filtros
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Aba Analise
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
+
+### Informação do Scroller na Aba Analise
+
+<img width="100%" src="Imagens_do_Dashboard/Aba_Geral.png">
 
 ## Etapas Desenvolvidas
 
